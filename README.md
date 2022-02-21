@@ -1,8 +1,5 @@
 ### Hello There!! I'm Deraldo! ✌️
-
-- 🔭 I’m currently working on Full Stack with C# and Javascript
-- 🌱 I’m currently learning Swift
-- 🤔 I’m looking for help with Swift
+🌱 I’m currently learning Swift
 
 <div align="center">
   <a href="https://github.com/Deraldo-Neto">
